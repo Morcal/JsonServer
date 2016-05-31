@@ -1,0 +1,24 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "lzy"
+    },
+    {
+      "id": 2,
+      "name": "qdh"
+    },
+    {
+      "id": 3,
+      "name": "wdg"
+    },
+    {
+      "id": 4,
+      "name": "uer"
+    },
+    {
+      "id": 5,
+      "name": "tgb"
+    }
+  ]
+}

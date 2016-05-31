@@ -1,0 +1,123 @@
+{
+  "listen": {
+    "listenDirection": "Directions : In this section, you will hear 8 short conversations and 2 long conversations.At the end ofeach conversation, one or more questions will be asked about what was said.Both theconversation and the questions will be spoken only once.After each question there will bea pause.During the pause, you must read the four choices marked A., B), C.and D),and decide which is the best answer.Then mark the corresponding letter on AnswerSheet 1 with a single line through the centre.",
+    "listenAudioUrl": "http://wximg.233.com/attached/media/20151113/20151113103125_1575.mp3",
+    "listenChoice": [
+      {
+        "pos": 1,
+        "choice": [
+          {
+            "chose": "A",
+            "content": "He will give the woman some tips on the game."
+          },
+          {
+            "chose": "B",
+            "content": "The woman has good reason to quit the game."
+          },
+          {
+            "chose": "C",
+            "content": "He is willing to play chess with the woman."
+          },
+          {
+            "chose": "D",
+            "content": "The woman should go on playing chess."
+          }
+        ],
+        "type": "B",
+        "userAnswer": ""
+      },
+      {
+        "pos": 2,
+        "choice": [
+          {
+            "chose": "A",
+            "content": "The man can forward the mail to Mary."
+          },
+          {
+            "chose": "B",
+            "content": "She can call Mary to take care of the mail."
+          },
+          {
+            "chose": "C",
+            "content": "Mary probably knows Sally's new address."
+          },
+          {
+            "chose": "D",
+            "content": "She would like to resume contact with Sally."
+          }
+        ],
+        "type": "B",
+        "userAnswer": ""
+      },
+      {
+        "pos": 3,
+        "choice": [
+          {
+            "chose": "A",
+            "content": "His handwriting has a unique style."
+          },
+          {
+            "chose": "B",
+            "content": "His notes are not easy to read."
+          },
+          {
+            "chose": "C",
+            "content": "He did not attend today's class."
+          },
+          {
+            "chose": "D",
+            "content": "He is very pleased to be able to help."
+          }
+        ],
+        "type": "B",
+        "userAnswer": ""
+      },
+      {
+        "pos": 4,
+        "choice": [
+          {
+            "chose": "A",
+            "content": "The man had better choose another restaurant."
+          },
+          {
+            "chose": "B",
+            "content": "The new restaurant is a perfect place for dating."
+          },
+          {
+            "chose": "C",
+            "content": "The new restaurant caught her fancy immediately."
+          },
+          {
+            "chose": "D",
+            "content": "The man has good taste in choosing the restaurant."
+          }
+        ],
+        "type": "B",
+        "userAnswer": ""
+      },
+      {
+        "pos": 5,
+        "choice": [
+          {
+            "chose": "A",
+            "content": "He has been looking forward to spring."
+          },
+          {
+            "chose": "B",
+            "content": "He has been waiting for the winter sale."
+          },
+          {
+            "chose": "C",
+            "content": "He will clean the woman's boots for spring."
+          },
+          {
+            "chose": "D",
+            "content": "He will help the woman put things away."
+          }
+        ],
+        "type": "B",
+        "userAnswer": ""
+      }
+    ]
+  }
+}
